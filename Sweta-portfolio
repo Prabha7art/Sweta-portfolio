@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweta Prabha - Professional Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 0.5rem;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 2rem;
+            max-width: 1000px;
+            margin: auto;
+        }
+        .container {
+            margin-bottom: 2rem;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background: #4CAF50;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 0.5rem 0;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Sweta Prabha</h1>
+    <p>Bengaluru, Karnataka, India</p>
+    <p>204 Followers | 160 Connections</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#experience">Experience</a>
+    <a href="#education">Education</a>
+    <a href="#certifications">Certifications</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about" class="container">
+    <h2>About</h2>
+    <p>Hello! I'm Sweta Prabha, an aspiring professional with a background in web development, application development, and cybersecurity. With hands-on experience in frameworks like MVC, .Net, and programming languages like Java and SQL, I aim to contribute to impactful projects in the tech industry.</p>
+</section>
+
+<section id="experience" class="container">
+    <h2>Volunteer Experience</h2>
+    <p><span class="highlight">NIIT Yuva Jyoti Limited</span></p>
+    <p>Role: Introduction to Computer and MS Office</p>
+    <p>Duration: January 2014</p>
+</section>
+
+<section id="education" class="container">
+    <h2>Education</h2>
+    <p>Details not provided. Please update this section if needed.</p>
+</section>
+
+<section id="certifications" class="container">
+    <h2>Licenses & Certifications</h2>
+    <ul>
+        <li><span class="highlight">"UNIFIED COURSE"</span> - National Skill Development Corporation (Issued Mar 2019)</li>
+        <li><span class="highlight">Project Training</span> - Shree Krishna foundation for Integrated Development Initiatives (Issued Oct 2018)</li>
+        <li><span class="highlight">Cyber Security</span> - NSLCOMP (Issued Aug 2018)</li>
+        <li><span class="highlight">Java Workshop</span> - AndroSoftSystem (Issued Jul 2018)</li>
+        <li><span class="highlight">Diploma in Computer Application</span> - Rashtriya Computer Prashikshan Pariyojana (Issued Jan 2012)</li>
+    </ul>
+</section>
+
+<section id="projects" class="container">
+    <h2>Projects</h2>
+    <ul>
+        <li>
+            <p><span class="highlight">Banking Application</span> (Mar 2019 - Jul 2019)</p>
+            <p>Completed at ABC Technology Training (NSDC) Bangalore. Learned MVC Framework, Web Technologies, and Database Management.</p>
+        </li>
+        <li>
+            <p><span class="highlight">E-learning (Web Application)</span> (Oct 2018 - Jan 2019)</p>
+            <p>Developed under Shree Krishna Foundation, using .Net, C#, Asp.Net, ADO.net, CSS, JavaScript, HTML, and SQL.</p>
+        </li>
+    </ul>
+</section>
+
+<section id="contact" class="container">
+    <h2>Contact</h2>
+    <p>Feel free to connect with me on LinkedIn: <a href="https://www.linkedin.com/in/sweta-prabha-676724165/" target="_blank">Sweta Prabha</a></p>
+</section>
+
+<footer>
+    <p>© 2024 Sweta Prabha | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
